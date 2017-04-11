@@ -9,7 +9,7 @@ sudo ln -s /usr/bin/qemu-system-i386 /usr/bin/qemu
 
 wget https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.9.4.tar.xz # download Linux Kernel 3.9.4 source code
 
-wget https://raw.github.com/mengning/mykernel/master/mykernel_for_linux3.9.4sc.patch # download mykernel_for_linux3.9.4sc.patch
+wget https://raw.githubusercontent.com/yanglixiaoshen/myfirstkernel/master/mykernel_for_linux3.9.4sc.patch # download mykernel_for_linux3.9.4sc.patch
 
 xz -d linux-3.9.4.tar.xz
 
